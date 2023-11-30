@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body-container{
+
+
+}
+
+.hero-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* SECTION ONE */
+.image-one{ 
+     width: 500px;
+     margin-top: 190px;
+     margin-bottom: 20px;
+}
+
+.text-one{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+.text-two{
+    text-align: center;
+    font-size: 19px;
+}
+
+.buttton-one{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    margin-left: 400px;
+    padding: 9px;
+    color: black;
+    width: 150px;
+    border: 0;
+    border-radius: 5px;
+    background-color:
+#b0ec83;
+margin-bottom: 140px;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  background-color:#6d9e48 ;
+}
+
+/* START OF SECTION TWO */
+
+.section-two{
+    background-color: 
+#262626;
+padding: 90px;
+}
+
+.gap{
+    gap: 80px;
+  }
+
+.section-two-text{
+    color: #fdfafa;
+
+}
+
+.explore-button{
+    margin-top: 25px;
+    padding: 13px;
+    width: 210px;
+    border: 0;
+    border-radius: 5px;
+    background-color:
+#404040;
+    color: white;
+    font-weight: 700;
+  }
+  /* END OF SECTION TWO */
+
+
+  /* START OF THIRD SECTION */
+.section-three-container{
+    margin-top: 110px;
+}
+
+.section-three-head{
+    font-weight: bolder;
+    font-size: 28px;
+
+}
+
+.section-three-para{
+    font-size: 18px;
+    word-spacing: 1px;
+}
+/* END OF THIRD SECTION */
+
+
+/* START OF SECTION FOUR */
+.section-four{
+    background-color: 
+#262626;
+padding: 90px;
+margin-top: 120px;
+}
+
+.gap{
+    gap: 80px;
+  }
+
+.section-four-text{
+    color: #fdfafa;
+
+}
+
+.section-four-button{
+    margin-top: 25px;
+    padding: 13px;
+    width: 155px;
+    border: 0;
+    border-radius: 5px;
+    background-color:
+#404040;
+    color: white;
+    font-weight: 700;
+  }
+
+  /* END OF FORTH SECTION */
+
+  /* START OF LAST SECTION */
+
+  .last-section{
+    margin-top: 120px;
+    margin-bottom: 200px;
+
+  }
+
+  .last-section-button{
+    margin-top: 25px;
+    padding: 13px;
+    width: 155px;
+    border: 0;
+    border-radius: 5px;
+    background-color:
+#b0ec83;
+    color: black;
+    font-weight: 500;
+  }
